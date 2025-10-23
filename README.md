@@ -52,9 +52,9 @@ STEP 6: Visualization
 ## **PROGRAM**
 
 
-**Name:** Gowtham S
+**Name:** Sharukesh T
 
-**Register Number:** 2305002008
+**Register Number:** 2305002022
 
 
 ```python
